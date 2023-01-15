@@ -1,0 +1,22 @@
+.card {
+  width: 90%;
+  background-color: #ececec !important;
+  border-radius: 7px;
+  margin: 10px 0;
+  padding: 2em;
+}
+
+.inputStyle {
+  width: 90%;
+  margin: 10px 0;
+  padding: 5px;
+}
+
+.ButtonAdd {
+  background-color: blueviolet;
+  color: #fff;
+}
+
+.ButtonAdd:hover {
+  opacity: 0.8;
+}
